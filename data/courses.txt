@@ -1,5 +1,5 @@
-C001,CS101,Introduction to Programming,Basic programming concepts,3,30,0
+﻿C001,CS101,Introduction to Programming,Basic programming concepts,3,30,0
 C002,CS201,Data Structures,Advanced data structures,4,25,1
-C003,CS301,Database Systems,Database design and SQL,3,20,1
-C004,MATH101,Calculus I,Limits, derivatives, and integrals,4,35,0
+C003,CS301,Database Systems,Database design and SQL,3,20,0
+C004,MATH101,Calculus I,Limits derivatives and integrals,4,35,0
 C005,ENG101,English Composition,Academic writing skills,3,30,0
