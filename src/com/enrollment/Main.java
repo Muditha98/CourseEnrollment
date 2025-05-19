@@ -1,14 +1,10 @@
 package com.enrollment;
 
-import model.Student;
-import view.EnrollmentView;
+import view.LoginView;
 
 public class Main {
     public static void main(String[] args) {
-        // Create a sample student
-        Student student = new Student("S001", "John Doe");
-        
-        // Launch the enrollment view
-        new EnrollmentView(student);
+        // Launch the login view
+        new LoginView();
     }
 }

@@ -1,0 +1,2 @@
+﻿john,pass123,student,S001,John Doe
+admin,admin123,admin,S002,Admin User
